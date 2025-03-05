@@ -1,40 +1,37 @@
-# Sid Agarwal 👋
+# Siddhant Agarwal 👋
 
-I'm a passionate Software Engineer and Full-Stack Developer with a love for creating innovative technological solutions. My expertise spans web development, machine learning, and cutting-edge tech applications.
+Siddhant Agarwal is a seasoned DevRel professional with over a decade of experience cultivating innovation and scaling developer ecosystems globally. Currently leading Developer Relations across APAC at Neo4j and recognized as a Google Developer Expert in Gen-AI, Sid transforms local developer initiatives into global success stories with his signature "Local to Global" approach. Previously at Google managing flagship developer programs, he has shared his technical expertise at diverse forums worldwide, fueling inspiration and innovation.
 
-## 🚀 About Me
-- 💻 Currently working on innovative software engineering projects
-- 🌐 Personal website: [meetsid.dev](https://meetsid.dev)
-- 🎓 Computer Science background with a focus on full-stack development
-- 🌟 Passionate about solving complex problems through technology
+## 🚀 Professional Highlights
+- 🌐 Leading Developer Relations for APAC at Neo4j
+- 🏆 Google Developer Expert in Generative AI
+- 💡 Pioneering the "Local to Global" approach in developer ecosystems
+- 🌟 Over a decade of experience in developer relations and technology innovation
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies & Expertise
+![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-black?style=flat-square&logo=openai)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=python)
+![Developer Relations](https://img.shields.io/badge/-Developer%20Relations-black?style=flat-square&logo=microsoft)
 
-## 🏆 Highlights
-- 🌐 Built multiple full-stack web applications
-- 🤖 Developed machine learning projects
-- 🔍 Passionate about innovative tech solutions
+## 🌍 Global Impact
+- 🎤 Technical expert sharing insights at global forums
+- 🚀 Transforming local developer initiatives into global success stories
+- 🤝 Building and scaling developer ecosystems
 
 ## 📊 GitHub Stats
 ![Sid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidagarwal04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidagarwal04&layout=compact&theme=radical)
 
-## 🤝 Let's Connect!
+## 🤝 Connect & Explore
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidagarwal04)
+[![Personal Website](https://img.shields.io/badge/-meetsid.dev-black?style=flat-square)](https://meetsid.dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/sidagarwal04)
-[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square)](https://meetsid.dev)
 
 ## 📫 Get in Touch
-Feel free to reach out for collaboration, interesting projects, or just to say hi! I'm always excited to connect with fellow developers and tech enthusiasts.
+Passionate about developer ecosystems, technology innovation, and global tech communities? Let's connect and explore potential collaborations!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sidagarwal04&color=green)
 
-**"Turning ideas into code, one commit at a time"**
+**"Bridging local innovations to global opportunities"**
