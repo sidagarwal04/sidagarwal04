@@ -1,4 +1,4 @@
-# Siddhant Agarwal 👋
+# Hi, I'm Sid 👋
 
 Siddhant Agarwal is a seasoned DevRel professional with over a decade of experience cultivating innovation and scaling developer ecosystems globally. Currently leading Developer Relations across APAC at Neo4j and recognized as a Google Developer Expert in Gen-AI, Sid transforms local developer initiatives into global success stories with his signature "Local to Global" approach. Previously at Google managing flagship developer programs, he has shared his technical expertise at diverse forums worldwide, fueling inspiration and innovation.
 
