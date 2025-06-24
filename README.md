@@ -28,6 +28,8 @@ Siddhant Agarwal is a seasoned DevRel professional with over a decade of experie
        width="380" height="400">
 </a>
 
+Also available on: [Packt](https://www.packtpub.com/en-us/product/building-neo4j-powered-applications-with-llms-9781836206231) | [O'Reilly](https://www.oreilly.com/library/view/building-neo4j-powered-applications/9781836206231/?_gl=1*7tfm82*_ga*MTI1NDcwOTA1MS4xNzQ5MDI2NDAw*_ga_092EL089CH*czE3NTA2Njg4MDQkbzUkZzAkdDE3NTA2Njg4MDUkajU5JGwwJGgw)
+
 ## 📊 GitHub Stats
 ![Sid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidagarwal04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidagarwal04&layout=compact&theme=radical)
