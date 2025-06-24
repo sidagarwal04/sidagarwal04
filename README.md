@@ -20,6 +20,14 @@ Siddhant Agarwal is a seasoned DevRel professional with over a decade of experie
 - 🚀 Transforming local developer initiatives into global success stories
 - 🤝 Building and scaling developer ecosystems
 
+## 📖 Author
+
+<a href="https://www.amazon.com/Building-Neo4j-Powered-Applications-LLMs-recommendations/dp/1836206232/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cb4973c5-f563-41fe-9bdd-d4d2d0caed72" 
+       alt="Building Neo4j-Powered Applications with LLMs - Book Cover" 
+       width="380" height="400">
+</a>
+
 ## 📊 GitHub Stats
 ![Sid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidagarwal04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidagarwal04&layout=compact&theme=radical)
