@@ -40,7 +40,7 @@ Also available on: [Packt](https://www.packtpub.com/en-us/product/building-neo4j
 
 ## 🤝 Connect & Explore
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidagarwal04)
-[![Personal Website](https://img.shields.io/badge/-meetsid.dev-black?style=flat-square)](https://meetsid.dev)
+[![Personal Website](https://img.shields.io/website?url=meetsid.dev)](https://meetsid.dev)
 [![X](https://img.shields.io/twitter/follow/:sidagrwal04)](https://x.com/sidagarwal04)
 
 ## 📫 Get in Touch
