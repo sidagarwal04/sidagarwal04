@@ -96,7 +96,7 @@ Technical reviewer on three more:
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://orangeava.in/products/graph-data-science-with-python-and-neo4j">
-        <img src="assets/gds-py-neo4j.webp" height="230" alt="Graph Data Science with Python and Neo4j" />
+        <img src="assets/gds-py-neo4j.jpg" height="230" alt="Graph Data Science with Python and Neo4j" />
       </a>
       <br/>
       <sub><strong>Graph Data Science with Python and Neo4j</strong><br/>Orange AVA · 2024</sub>
